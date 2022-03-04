@@ -25,3 +25,27 @@ console.log(false && false) // ==> false
 console.log(true || true) // ==> true
 console.log(true || false) // ==>true
 console.log(false || false) // ==> false
+
+// Equality without checking types.
+console.log('****************************************')
+console.log(0 == false);
+
+console.log('0' == false);
+
+console.log('1' == 1);
+
+console.log('1' == true);
+console.log(true == 1);
+console.log('****************************************')
+
+// Equality with types.
+console.log('****************************************')
+console.log(false === false);
+
+console.log('0' === false);
+
+console.log(1 === 1);
+
+console.log('1' === true);
+console.log(true === 1);
+console.log('****************************************')
