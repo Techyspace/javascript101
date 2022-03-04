@@ -49,3 +49,9 @@ console.log(1 === 1);
 console.log('1' === true);
 console.log(true === 1);
 console.log('****************************************')
+
+/* IS ALWAYS AVISIBLE TO USE TRIPLE INSTEAD OF DOUBLE. */
+
+// Single or double Qoutes ?
+//a team should choose one to use, there is no much defference between them.
+//Semicolon ?? 
